@@ -29,11 +29,14 @@
 - **Languages**:
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,css,js,html.php&theme=light)](https://skillicons.dev)
-
+    
+  
 - **Cloud Hosting**:
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,heroku&theme=light)](https://skillicons.dev)
 
+  
+  
 - **Softwares and Tools**:
 
 [![My Skills](https://skillicons.dev/icons?i=discord,git,github,idea,ai,ps,pr,visualstudio&theme=light)](https://skillicons.dev)
@@ -45,6 +48,7 @@
 <br>
 <br>
 
+  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -62,7 +66,7 @@
 <div align='left'>
 
 coming soon on the go..
-
+ 
 </div>
 
 <br>
@@ -70,4 +74,5 @@ coming soon on the go..
 <br>
 <br>
 <br>
+
 
