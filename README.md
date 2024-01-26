@@ -54,9 +54,8 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalinduSE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalinduSE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KalinduSE&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </div>
 
 <br><br>
