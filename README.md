@@ -22,7 +22,7 @@
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 <p align="center">
 
@@ -54,18 +54,18 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalinduSE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KalinduSE&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalinduSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KalinduSE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+   <a href="https://github.com/KalinduSE"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalinduSE&theme=tokyonight&hide_border=true"  width="650" alt="Kalindu Kethaka"/></a>
 </div>
 
 <br><br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Let's Connect..!</b>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px"> Let's Connect..!</b>
 <br>
 <div align='left'>
 
-coming soon on the go..
- 
+[![Community](https://discordapp.com/api/guilds/1255212970510778469/widget.png?style=banner2)](https://bmc.xyz/warengonzaga) 
 </div>
 
 <br>
