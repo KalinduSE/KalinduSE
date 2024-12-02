@@ -17,7 +17,7 @@
 - My school is Sivali Central College
 - Currently learning Java Courses and some Frameworks
 - I like AI and I will learn AI in further.
-- You can Contact me on [Email](0101.Programming@gmail.com) and [WhatsaApp](https://wa.link/77tzn1)
+- You can Contact me on [Email](0101.Programming@gmail.com) and [WhatsaApp](https://wa.link/i9m2v1)
 
 <br><br>
 
@@ -65,45 +65,46 @@
 <br>
 <div align='left'>
 
-<p align="center">
+<p align="center" style="text-decoration: none;">
+	
   <a href="[https://skillicons.dev](https://discordapp.com/users/1199284829540339756)">
-    <img src="https://github.com/user-attachments/assets/0cdd547a-640c-4399-ae04-29ef6620cf85" width="50"/>
+    <img src="https://github.com/user-attachments/assets/0cdd547a-640c-4399-ae04-29ef6620cf85" width="50"  />
   </a> 
-	&nbsp
+	&nbsp 	&nbsp
 	  <a href="https://www.instagram.com/kin9.mhzon">
     <img src="https://github.com/user-attachments/assets/e72fef9c-fa4b-4917-9343-74900e133016" width="50" />
   </a>
-	    &nbsp
+	    &nbsp &nbsp
 	  <a href="mailto:0101.Programming@gmail.com">
     <img src="https://github.com/user-attachments/assets/2d0d5f35-4f09-4c11-ae7d-38ae226c48f0" width="50" />
   </a>
-	&nbsp
-	  <a href="https://skillicons.dev">
+	&nbsp &nbsp
+	  <a href="https://wa.link/i9m2v1">
     <img src="https://github.com/user-attachments/assets/deaed28f-4019-43aa-a40e-0a25f6a7e97b" width="50"/>
   </a>
-		&nbsp
+		&nbsp &nbsp
 	  <a href="https://skillicons.dev">
     <img src="https://github.com/user-attachments/assets/10eba42e-41df-4c99-b8a7-0fe4321c3043" width="50"/>
   </a>
-	&nbsp
+	&nbsp &nbsp
 
  <a href="https://skillicons.dev">
     <img src="https://github.com/user-attachments/assets/de837d74-32a2-4af6-8408-a4b0af34114b" width="50"/>
   </a>
-	&nbsp
-
+	&nbsp &nbsp
+ 
   <a href="https://skillicons.dev">
     <img src="https://github.com/user-attachments/assets/e578dc4b-7041-4c3e-9606-d962ae9d8a59" width="50"/>
   </a>
-  	&nbsp
-      <a href="https://skillicons.dev">
+  	&nbsp &nbsp
+      <a href="https://open.spotify.com/user/31sdpdlzcvi5lggu65klcgnhhbtq?si=cf9309dfde0f47ed">
     <img src="https://github.com/user-attachments/assets/8946a35b-6075-4911-a198-3aafa2049bad" width="50"/>
   </a>
-	&nbsp
+	&nbsp &nbsp
   <a href="https://skillicons.dev">
     <img src="https://github.com/user-attachments/assets/4f5bad0f-e016-44b2-8599-d8100e840b89" width="50"/>
   </a>
-  	&nbsp
+  	&nbsp &nbsp
 </p>
 
 </div>
