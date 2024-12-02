@@ -28,18 +28,18 @@
 
 - **Languages**:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,css,js,html.php&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cpp,c,css,reat,js,spring,html.php&theme=light)](https://skillicons.dev)
     
   
 - **Cloud Hosting**:
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,heroku&theme=light)](https://skillicons.dev)
+[![Cloud Hosting](https://skillicons.dev/icons?i=gcp,heroku&theme=light)](https://skillicons.dev)
 
   
   
 - **Softwares and Tools**:
 
-[![My Skills](https://skillicons.dev/icons?i=discord,git,github,idea,ai,ps,pr,visualstudio&theme=light)](https://skillicons.dev)
+[![Softwares and Tools](https://skillicons.dev/icons?i=discord,git,github,idea,ai,ps,pr,arduino,visualstudio&theme=light)](https://skillicons.dev)
 
 - **Extras**:
 
@@ -65,10 +65,51 @@
 <br>
 <div align='left'>
 
-[![Community](https://discordapp.com/api/guilds/1255212970510778469/widget.png?style=banner2)](https://bmc.xyz/warengonzaga) 
+<p align="center">
+  <a href="[https://skillicons.dev](https://discordapp.com/users/1199284829540339756)">
+    <img src="https://github.com/user-attachments/assets/0cdd547a-640c-4399-ae04-29ef6620cf85" width="50"/>
+  </a> 
+	&nbsp
+	  <a href="https://www.instagram.com/kin9.mhzon">
+    <img src="https://github.com/user-attachments/assets/e72fef9c-fa4b-4917-9343-74900e133016" width="50" />
+  </a>
+	    &nbsp
+	  <a href="mailto:0101.Programming@gmail.com">
+    <img src="https://github.com/user-attachments/assets/2d0d5f35-4f09-4c11-ae7d-38ae226c48f0" width="50" />
+  </a>
+	&nbsp
+	  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/deaed28f-4019-43aa-a40e-0a25f6a7e97b" width="50"/>
+  </a>
+		&nbsp
+	  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/10eba42e-41df-4c99-b8a7-0fe4321c3043" width="50"/>
+  </a>
+	&nbsp
+
+ <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/de837d74-32a2-4af6-8408-a4b0af34114b" width="50"/>
+  </a>
+	&nbsp
+
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/e578dc4b-7041-4c3e-9606-d962ae9d8a59" width="50"/>
+  </a>
+  	&nbsp
+      <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/8946a35b-6075-4911-a198-3aafa2049bad" width="50"/>
+  </a>
+	&nbsp
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/4f5bad0f-e016-44b2-8599-d8100e840b89" width="50"/>
+  </a>
+  	&nbsp
+</p>
+
 </div>
 
-<br>
+<br><p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
