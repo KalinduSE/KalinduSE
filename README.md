@@ -28,7 +28,7 @@
 
 - **Languages**:
 
-[![Languages](https://skillicons.dev/icons?i=java,cpp,c,css,reat,js,spring,html.php&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cpp,c,css,react,js,spring,html,php&theme=light)](https://skillicons.dev)
     
   
 - **Cloud Hosting**:
@@ -39,11 +39,11 @@
   
 - **Softwares and Tools**:
 
-[![Softwares and Tools](https://skillicons.dev/icons?i=discord,git,github,idea,ai,ps,pr,arduino,visualstudio&theme=light)](https://skillicons.dev)
+[![Softwares and Tools](https://skillicons.dev/icons?i=discord,git,github,idea,ai,ps,pr,ae,visualstudio&theme=light)](https://skillicons.dev)
 
 - **Extras**:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,mysql,kali,raspberrypi&theme=light)](https://skillicons.dev)
 
 <br>
 <br>
